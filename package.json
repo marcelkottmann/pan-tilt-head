@@ -1,0 +1,19 @@
+{
+  "name": "camera",
+  "version": "1.0.0",
+  "description": "",
+  "main": "camera.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node camera.js"
+  },
+  "author": "Marcel Kottmann",
+
+  "dependencies" :
+  { 
+    "http-server" : "0.9.0",
+    "wiring-pi" : "2.2.1",
+    "director" : "1.2.8"
+  }
+
+}
